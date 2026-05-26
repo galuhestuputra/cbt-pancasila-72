@@ -174,5 +174,77 @@ soal_cbt = [
     # --- LEVEL 2: Aplikasi (15 Soal) ---
     {
         "id": 26, "level": "L2", "kategori": "Bab 4", "image": "https://via.placeholder.com/600x300.png?text=Gotong+Royong+Beda+Suku",
-        "pertanyaan": "Di sebuah kompleks perumahan, warga yang bersuku Batak, Jawa, dan Minang selalu bahu-membahu membersihkan lingkungan setiap bulan. Tindakan ini merupakan perwujudan dari...",
-        "opsi":
+        "pertanyaan": "Di sebuah kompleks perumahan, warga yang bersuku Batak, Jawa, and Minang selalu bahu-membahu membersihkan lingkungan setiap bulan. Tindakan ini merupakan perwujudan dari...",
+        "opsi": ["A. Asimilasi total budaya lokal", "B. Persatuan dalam keberagaman suku di masyarakat", "C. Primordialisme antarsuku", "D. Etnosentrisme dalam satu lingkungan"],
+        "jawaban": "B. Persatuan dalam keberagaman suku di masyarakat"
+    },
+    {
+        "id": 27, "level": "L2", "kategori": "Bab 5", "image": None,
+        "pertanyaan": "Sebuah kapal penangkap ikan dari negara Z ditangkap patroli TNI AL karena terbukti mencari ikan di perairan sejauh 150 mil dari garis pantai Indonesia. Kapal tersebut ditangkap karena melanggar batas perairan...",
+        "opsi": ["A. Laut Teritorial", "B. Perairan Pedalaman", "C. Zona Ekonomi Eksklusif (ZEE)", "D. Landasan Kontinen"],
+        "jawaban": "C. Zona Ekonomi Eksklusif (ZEE)"
+    },
+    {
+        "id": 28, "level": "L2", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Andi merayakan Idulfitri, sementara tetangganya Budi merayakan Natal. Keduanya saling mengunjungi dan menghargai perayaan agama masing-masing. Sikap ini merupakan penerapan langsung dari perilaku...",
+        "opsi": ["A. Toleransi beragama yang menciptakan keharmonisan", "B. Sinkretisme perayaan hari besar", "C. Memudarnya nilai-nilai ajaran asli agama", "D. Kompromi terhadap prinsip keyakinan"],
+        "jawaban": "A. Toleransi beragama yang menciptakan keharmonisan"
+    },
+    {
+        "id": 29, "level": "L2", "kategori": "Bab 5", "image": None,
+        "pertanyaan": "Pemerintah daerah Kota Ambon saat ini memiliki wewenang untuk mengatur urusan rumah tangganya sendiri dan membangun fasilitas publik dari anggaran daerahnya. Ini menunjukkan negara Indonesia menerapkan sistem...",
+        "opsi": ["A. Sentralisasi absolut", "B. Desentralisasi", "C. Federalisme murni", "D. Otoriterisme"],
+        "jawaban": "B. Desentralisasi"
+    },
+    {
+        "id": 30, "level": "L2", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Indonesia menjadi jalur perdagangan internasional karena letak geografisnya yang diapit benua Asia dan Australia. Secara kultural, dampak dari kondisi ini adalah...",
+        "opsi": ["A. Masyarakat Indonesia sepenuhnya terisolasi dari kebudayaan global", "B. Terciptanya satu kebudayaan tunggal yang seragam di nusantara", "C. Indonesia sulit mencegah masuknya pengaruh budaya asing dan menjadi beragam", "D. Terhentinya laju modernisasi di sektor maritim"],
+        "jawaban": "C. Indonesia sulit mencegah masuknya pengaruh budaya asing dan menjadi beragam"
+    },
+    {
+        "id": 31, "level": "L2", "kategori": "Bab 5", "image": None,
+        "pertanyaan": "Sebagai pelajar, tindakan seperti menjaga kebersihan lingkungan dan tidak merusak fasilitas umum merupakan salah satu cerminan sikap menjaga keutuhan negara melalui...",
+        "opsi": ["A. Rela berkorban di medan tempur", "B. Cinta tanah air di lingkungan masyarakat", "C. Etnosentrisme kepemudaan", "D. Sikap apatis terhadap perubahan lingkungan"],
+        "jawaban": "B. Cinta tanah air di lingkungan masyarakat"
+    },
+    {
+        "id": 32, "level": "L2", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Kondisi alam pesisir yang subur dan kawasan pegunungan yang sejuk secara langsung akan melahirkan keberagaman masyarakat terutama pada sektor...",
+        "opsi": ["A. Pemilihan agama dan aliran kepercayaan", "B. Mata pencaharian dan desain arsitektur rumah", "C. Sistem hukum peradilan yang dianut", "D. Kebijakan hubungan luar negeri"],
+        "jawaban": "B. Mata pencaharian dan desain arsitektur rumah"
+    },
+    {
+        "id": 33, "level": "L2", "kategori": "Bab 5", "image": None,
+        "pertanyaan": "Sesaat setelah Konferensi Meja Bundar, Indonesia terpaksa menjadi negara Republik Indonesia Serikat (RIS). Tak lama berselang, Presiden Sukarno membubarkan RIS pada 17 Agustus 1950 karena...",
+        "opsi": ["A. Adanya desakan dari pihak Perserikatan Bangsa-Bangsa", "B. Belanda secara resmi menarik dukungannya atas bentuk serikat", "C. Sebagian besar rakyat Indonesia menginginkan kembali ke bentuk negara kesatuan", "D. Sistem konstitusi RIS tidak memiliki parlemen perwakilan"],
+        "jawaban": "C. Sebagian besar rakyat Indonesia menginginkan kembali ke bentuk negara kesatuan"
+    },
+    {
+        "id": 34, "level": "L2", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Dalam kerja kelompok PPKn, anggota kelompok terdiri atas teman-teman yang berbeda latar belakang agama dan suku bangsa. Langkah terbaik yang harus dilakukan untuk menyukseskan tugas adalah...",
+        "opsi": ["A. Menyerahkan semua tugas pada satu orang yang paling pintar", "B. Saling menghargai perbedaan tersebut dan bekerja sama menyelesaikan tugas", "C. Menghindari anggota yang berbeda suku agar tidak terjadi konflik", "D. Mengerjakan bagian tugas sendiri tanpa peduli hasil kelompok"],
+        "jawaban": "B. Saling menghargai perbedaan tersebut dan bekerja sama menyelesaikan tugas"
+    },
+    {
+        "id": 35, "level": "L2", "kategori": "Bab 5", "image": None,
+        "pertanyaan": "Memiliki kebanggaan terhadap negara itu penting, tetapi jika perasaan cinta tanah air tersebut diwujudkan secara berlebihan hingga merendahkan negara lain, maka hal ini disebut sebagai...",
+        "opsi": ["A. Nasionalisme dalam arti luas", "B. Nasionalisme dalam arti sempit (Chauvinisme)", "C. Patriotisme modern", "D. Individualisme progresif"],
+        "jawaban": "B. Nasionalisme dalam arti sempit (Chauvinisme)"
+    },
+    {
+        "id": 36, "level": "L2", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Revolusi digital memberikan pengaruh yang sangat besar hingga memicu perubahan gaya hidup di kalangan remaja. Respons terbaik seorang pelajar untuk menghadapi perubahan global ini adalah...",
+        "opsi": ["A. Menolak total penggunaan internet demi menjaga tradisi", "B. Mengevaluasi peluang, menyerap informasi positif, dan terus belajar hal baru", "C. Menyerahkan semua permasalahan moral pada pemerintah", "D. Mengikuti tren apa saja tanpa batas agar terlihat kekinian"],
+        "jawaban": "B. Mengevaluasi peluang, menyerap informasi positif, dan terus belajar hal baru"
+    },
+    {
+        "id": 37, "level": "L2", "kategori": "Bab 5", "image": None,
+        "pertanyaan": "Berbeda dengan negara bagian di sistem serikat, provinsi di Indonesia berkedudukan di bawah pemerintah pusat dan harus mengacu pada satu konstitusi utama, yakni...",
+        "opsi": ["A. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945", "B. Ketetapan Majelis Permusyawaratan Rakyat (TAP MPR)", "C. Peraturan Pemerintah Pengganti Undang-Undang (Perppu)", "D. Konstitusi Republik Indonesia Serikat"],
+        "jawaban": "A. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
+    },
+    {
+        "id": 38, "level": "L2", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Penggolongan profesi seperti petani, nelayan, buruh, dan pedagang menunjukkan keragaman antargolongan. Tujuan utama dari perbedaan profesi ini dalam masyarakat adalah untuk...",
+        "ops
