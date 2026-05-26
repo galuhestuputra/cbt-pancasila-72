@@ -266,7 +266,7 @@ soal_cbt = [
     # --- LEVEL 3: Penalaran / HOTS (10 Soal) ---
     {
         "id": 41, "level": "L3", "kategori": "Bab 5", "image": "https://via.placeholder.com/600x300.png?text=Sidang+BPUPK+Bentuk+Negara",
-        "pertanyaan": "Dalam sidang BPUPK, Hatta menilai bentuk serikat cocok dengan keberagaman suku. Sebaliknya, Soepomo dan Yamin meyakini bentuk kesatuanlah yang tepat. Berdasarkan sejarah ketatanegaraan kita, alasan paling filosofis mengapa negara kesatuan yang akhirnya menjadi pilihan permanen adalah... [cite: 313-316, 342-343]",
+        "pertanyaan": "Dalam sidang BPUPK, Mohammad Hatta menilai bentuk serikat cocok dengan keberagaman suku. Sebaliknya, Soepomo dan Yamin meyakini bentuk kesatuanlah yang tepat. Berdasarkan sejarah ketatanegaraan kita, alasan paling filosofis mengapa negara kesatuan yang akhirnya menjadi pilihan permanen adalah... [cite: 313-316, 342-343]",
         "opsi": [
             "A. Negara serikat selalu membebani anggaran daerah", 
             "B. Negara kesatuan dianggap bentuk paling tepat untuk mewadahi ide persatuan sebuah bangsa yang majemuk", 
@@ -280,7 +280,7 @@ soal_cbt = [
         "pertanyaan": "Pesatnya kemajuan teknologi informasi memungkinkan budaya global masuk tanpa hambatan. Jika masyarakat menerima hal asing (akulturasi) secara buta tanpa proses penyaringan nilai, konsekuensi sosial jangka panjang yang akan dialami bangsa Indonesia adalah... [cite: 1182-1192]",
         "opsi": [
             "A. Menguatnya kesadaran ber-Bhinneka Tunggal Ika", 
-            "B. Terciptanya kehidupan sosial yang harmonis dan merata", 
+            "B. Terciptanya kehidupan sosial yang harmonis and merata", 
             "C. Identitas nasional dan keaslian budaya luhur perlahan luntur dan tergantikan oleh budaya asing", 
             "D. Meningkatnya devisa negara dari sektor pariwisata luar negeri"
         ],
@@ -457,13 +457,13 @@ def halaman_login_siswa():
             margin-top: 20px;
         }
         .judul-utama {
-            color: #047857;
+            color: #1E3A8A !important;
             font-weight: 800;
             text-align: center;
             margin-bottom: 5px;
         }
         .sub-judul {
-            color: #065F46;
+            color: #1E3A8A !important;
             text-align: center;
             font-size: 1.1rem;
             margin-bottom: 25px;
@@ -478,7 +478,7 @@ def halaman_login_siswa():
     with col2:
         st.markdown("<div class='kotak-login'>", unsafe_allow_html=True)
         with st.form("form_login"):
-            st.markdown("<h3 style='color: #059669; text-align:center; margin-bottom:20px;'>👋 Selamat Datang! Silakan Login</h3>", unsafe_allow_html=True)
+            st.markdown("<h3 style='color: #1E3A8A; text-align:center; margin-bottom:20px;'>👋 Selamat Datang! Silakan Login</h3>", unsafe_allow_html=True)
             
             input_nama = st.text_input("📝 Nama Lengkap", placeholder="Ketik nama lengkapmu di sini...")
             pilihan_kelas = ["Pilih Kelas", "7A", "7B", "7C", "7D", "7E", "7F", "7G", "7H", "7I"]
@@ -524,6 +524,7 @@ def halaman_ujian():
         st.balloons()
         st.success("✔ JAWABAN BERHASIL DIKIRIM KE DATABASE GURU!")
         
+        # Kotak Skor Langsung untuk Peserta
         st.markdown("""
             <div style='background-color: #F0FDF4; border: 2px solid #16A34A; padding: 25px; border-radius: 10px; text-align: center; margin-bottom: 25px;'>
                 <h2 style='color: #16A34A; margin-top: 0;'>📝 HASIL SKOR UJIAN ANDA</h2>
