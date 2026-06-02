@@ -22,15 +22,15 @@ soal_cbt = [
     # --- LEVEL 1: Pengetahuan & Pemahaman (25 Soal) ---
     {
         "id": 1, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Bhinneka Tunggal Ika adalah semboyan nasional. Makna utama semboyan tersebut adalah...",
+        "pertanyaan": "Bhinneka Tunggal Ika adalah semboyan atau motto nasional Indonesia. Makna utama dari semboyan tersebut adalah... [cite: 1138-1139]",
         "opsi": ["A. Kesatuan dalam perbedaan", "B. Berbeda-beda tetapi tetap satu jua", "C. Persatuan suku bangsa", "D. Toleransi antar umat beragama"],
         "jawaban": "B. Berbeda-beda tetapi tetap satu jua"
     },
     {
         "id": 2, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Menurut Konvensi Montevideo 1933, unsur konstitutif (mutlak) berdirinya negara adalah...",
-        "opsi": ["A. Wilayah, rakyat, pengakuan negara lain", "B. Wilayah, rakyat, pemerintah berdaulat", "C. Pemimpin, konstitusi, pengakuan de jure", "D. Konstitusi, wilayah, pengakuan negara lain"],
-        "jawaban": "B. Wilayah, rakyat, pemerintah berdaulat"
+        "pertanyaan": "Menurut Konvensi Montevideo tahun 1933, unsur konstitutif (mutlak) berdirinya sebuah negara adalah... [cite: 93-94]",
+        "opsi": ["A. Wilayah, rakyat, pengakuan negara lain", "B. Wilayah, rakyat, pemerintahan yang berdaulat", "C. Pemimpin, konstitusi, pengakuan de jure", "D. Konstitusi, wilayah, pengakuan negara lain"],
+        "jawaban": "B. Wilayah, rakyat, pemerintahan yang berdaulat"
     },
     {
         "id": 3, "level": "L1", "kategori": "Bab 4", "image": None,
@@ -40,133 +40,133 @@ soal_cbt = [
     },
     {
         "id": 4, "level": "L1", "kategori": "Bab 5", "image": "https://via.placeholder.com/600x300.png?text=Ilustrasi+Peta+Batas+Laut+Indonesia",
-        "pertanyaan": "Batas laut yang diukur dari garis pangkal kepulauan Indonesia sampai 12 mil laut ke laut lepas disebut...",
+        "pertanyaan": "Batas wilayah laut yang diukur mulai dari garis pangkal kepulauan Indonesia sampai dengan 12 mil laut ke arah laut lepas disebut...",
         "opsi": ["A. Zona Tambahan", "B. Zona Ekonomi Eksklusif", "C. Landas Kontinen", "D. Laut Teritorial"],
         "jawaban": "D. Laut Teritorial"
     },
     {
         "id": 5, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Berdasarkan data sensus, suku bangsa dengan populasi terbanyak di Indonesia (mencapai lebih dari 40%) adalah...",
+        "pertanyaan": "Berdasarkan data sensus, suku bangsa dengan populasi terbanyak di Indonesia yang penyebarannya mencapai lebih dari 40 persen adalah...",
         "opsi": ["A. Suku Sunda", "B. Suku Jawa", "C. Suku Batak", "D. Suku Madura"],
         "jawaban": "B. Suku Jawa"
     },
     {
         "id": 6, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Pengakuan dari negara lain berdasarkan fakta bahwa sebuah negara telah memenuhi unsur mutlak disebut pengakuan...",
+        "pertanyaan": "Pengakuan dari negara lain yang didasarkan pada kenyataan (fakta) bahwa sebuah negara telah memenuhi unsur mutlak disebut pengakuan... [cite: 106-107]",
         "opsi": ["A. De facto", "B. De jure", "C. Konstitutif", "D. Deklaratif"],
         "jawaban": "A. De facto"
     },
     {
         "id": 7, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Bentuk kearifan lokal suku Bali dalam mengelola sistem pertanian yang menjaga keseimbangan alam adalah...",
+        "pertanyaan": "Salah satu bentuk kearifan lokal suku Bali dalam mengelola sistem pertanian yang menjaga keseimbangan alam adalah... [cite: 1237-1238]",
         "opsi": ["A. Ngaben", "B. Seren Taun", "C. Subak", "D. Ruwatan"],
         "jawaban": "C. Subak"
     },
     {
         "id": 8, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Pada sidang BPUPK, tokoh yang mengusulkan agar bentuk negara Indonesia berbentuk negara kesatuan atau integral adalah...",
+        "pertanyaan": "Pada sidang BPUPK, tokoh yang mengusulkan agar bentuk negara Indonesia adalah negara kesatuan atau 'negara integral' adalah... [cite: 295-297]",
         "opsi": ["A. Ir. Sukarno", "B. Drs. Mohammad Hatta", "C. Muhammad Yamin", "D. Soepomo"],
         "jawaban": "D. Soepomo"
     },
     {
         "id": 9, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Tempat ibadah yang digunakan oleh umat Buddha di Indonesia bernama...",
+        "pertanyaan": "Tempat ibadah yang digunakan oleh umat Buddha di Indonesia adalah...",
         "opsi": ["A. Pura", "B. Wihara", "C. Klenteng", "D. Gereja"],
         "jawaban": "B. Wihara"
     },
     {
         "id": 10, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Penegasan yuridis bahwa bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan diatur dalam pasal...",
+        "pertanyaan": "Bentuk Negara Kesatuan Republik Indonesia secara yuridis ditegaskan dan tidak dapat dilakukan perubahan, hal ini diatur dalam UUD NRI Tahun 1945 pasal...",
         "opsi": ["A. Pasal 1 ayat (1)", "B. Pasal 25 A", "C. Pasal 37 ayat (5)", "D. Pasal 18 ayat (1)"],
         "jawaban": "C. Pasal 37 ayat (5)"
     },
     {
         "id": 11, "level": "L1", "kategori": "Bab 4", "image": None,
         "pertanyaan": "Penduduk ras Melanesoid di Indonesia banyak mendiami wilayah bagian timur, di antaranya meliputi daerah...",
-        "opsi": ["A. Sumatra, Jawa, dan Bali", "B. Kalimantan dan Sulawesi", "C. Papua, Maluku, dan NTT", "D. Aceh, Riau, dan Jambi"],
-        "jawaban": "C. Papua, Maluku, dan NTT"
+        "opsi": ["A. Sumatra, Jawa, dan Bali", "B. Kalimantan, Sulawesi, dan Lombok", "C. Papua, Maluku, dan Nusa Tenggara Timur", "D. Aceh, Riau, dan Jambi"],
+        "jawaban": "C. Papua, Maluku, dan Nusa Tenggara Timur"
     },
     {
         "id": 12, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Wilayah selatan Indonesia berupa Laut Indonesia dan Laut Arafuru secara langsung berbatasan dengan negara...",
+        "pertanyaan": "Wilayah selatan Indonesia berupa Laut Indonesia and Laut Arafuru secara langsung berbatasan dengan negara...",
         "opsi": ["A. Filipina", "B. Australia", "C. Malaysia", "D. Papua Nugini"],
         "jawaban": "B. Australia"
     },
     {
         "id": 13, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Rumah adat suku Baduy Banten mencerminkan nilai budaya mereka, yaitu...",
+        "pertanyaan": "Rumah adat suku Baduy di Provinsi Banten yang terbuat dari bambu dan kayu mencerminkan nilai budaya mereka yaitu... [cite: 1211-1212]",
         "opsi": ["A. Kemewahan ekonomi modern", "B. Menyatu dengan alam dan ramah lingkungan", "C. Pertahanan fisik dari serangan musuh", "D. Pengaruh dominan budaya asing"],
         "jawaban": "B. Menyatu dengan alam dan ramah lingkungan"
     },
     {
         "id": 14, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Negara kesatuan di mana semua urusan daerah dikendalikan sepenuhnya oleh pemerintah pusat dinamakan...",
+        "pertanyaan": "Negara kesatuan di mana semua urusan dan peraturan daerahnya dikendalikan sepenuhnya oleh pemerintah pusat dinamakan bersistem...",
         "opsi": ["A. Desentralisasi", "B. Serikat", "C. Sentralisasi", "D. Monarki"],
         "jawaban": "C. Sentralisasi"
     },
     {
         "id": 15, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Ras Asiatic Mongoloid yang berada di wilayah Indonesia umumnya berasal dari keturunan...",
-        "opsi": ["A. India dan Timur Tengah", "B. Tionghoa, Jepang, dan Korea", "C. Eropa dan Amerika", "D. Afrika dan Arab"],
+        "pertanyaan": "Ras Asiatic Mongoloid yang berada di wilayah Indonesia umumnya berasal dari bangsa... [cite: 1330-1331]",
+        "opsi": ["A. India, Timur Tengah, dan Eropa", "B. Tionghoa, Jepang, dan Korea", "C. Eropa, Amerika, dan Australia", "D. Afrika, Arab, dan Persia"],
         "jawaban": "B. Tionghoa, Jepang, dan Korea"
     },
     {
         "id": 16, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Luas batas Zona Ekonomi Eksklusif (ZEE) Indonesia ditarik dari garis pangkal laut sejauh...",
+        "pertanyaan": "Luas Zona Ekonomi Eksklusif (ZEE) Indonesia ditarik dari garis pangkal laut sejauh...",
         "opsi": ["A. 12 mil", "B. 24 mil", "C. 200 mil", "D. 350 mil"],
         "jawaban": "C. 200 mil"
     },
     {
         "id": 17, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Makanan khas tradisional suku Minangkabau (Sumatra Barat) yang sangat terkenal di dunia adalah...",
+        "pertanyaan": "Makanan khas tradisional suku Minangkabau yang sangat terkenal adalah...",
         "opsi": ["A. Rendang", "B. Colenak", "C. Rawon", "D. Ayam Betutu"],
         "jawaban": "A. Rendang"
     },
     {
         "id": 18, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Bentuk negara serikat (federal) pernah diterapkan di Indonesia pada tahun 1949 melalui sistem...",
-        "opsi": ["A. Perjanjian Linggarjati", "B. Sidang BPUPK", "C. Republik Indonesia Serikat (RIS)", "D. Dekrit Presiden 5 Juli 1959"],
-        "jawaban": "C. Republik Indonesia Serikat (RIS)"
+        "pertanyaan": "Bentuk negara serikat (federal) di Indonesia pernah diterapkan pada tahun 1949 melalui Republik Indonesia Serikat (RIS) sebagai hasil dari...",
+        "opsi": ["A. Perjanjian Linggarjati", "B. Sidang BPUPK", "C. Konferensi Meja Bundar (KMB)", "D. Dekrit Presiden 5 Juli 1959"],
+        "jawaban": "C. Konferensi Meja Bundar (KMB)"
     },
     {
         "id": 19, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Sikap yang menganggap budaya daerahnya sendiri lebih baik daripada budaya daerah lain disebut...",
-        "opsi": ["A. Sukuisme", "B. Etnosentrisme", "C. Fanatisme", "D. Ekstremisme"],
-        "jawaban": "B. Etnosentrisme"
+        "pertanyaan": "Sikap etnosentrisme merupakan ancaman bagi persatuan nasional karena sikap ini berarti...",
+        "opsi": ["A. Selalu mementingkan diri sendiri secara egois", "B. Menganggap budaya bangsanya lebih baik daripada budaya bangsa lain", "C. Memaksakan perubahan dengan tindakan ekstrem", "D. Fanatik terhadap agama tertentu saja"],
+        "jawaban": "B. Menganggap budaya bangsanya lebih baik daripada budaya bangsa lain"
     },
     {
         "id": 20, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Batas ketinggian ruang udara kedaulatan Indonesia yang diukur dari permukaan daratan dan perairan adalah...",
+        "pertanyaan": "Berdasarkan peraturan yang berlaku, batas ketinggian ruang udara wilayah kedaulatan Indonesia yang diukur dari permukaan daratan dan perairan adalah...",
         "opsi": ["A. 12 km", "B. 24 km", "C. 110 km", "D. 200 km"],
         "jawaban": "C. 110 km"
     },
     {
         "id": 21, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Penggolongan masyarakat berdasarkan tingkatan jabatan seperti direktur, staf, dan buruh bersifat...",
-        "opsi": ["A. Horizontal", "B. Setara", "C. Hierarki (Vertikal)", "D. Otonom"],
-        "jawaban": "C. Hierarki (Vertikal)"
+        "pertanyaan": "Penggolongan masyarakat berdasarkan hierarki status sosial seperti pimpinan, staf, dan karyawan disebut sebagai penggolongan yang terbentuk secara... [cite: 1382-1383]",
+        "opsi": ["A. Horizontal", "B. Setara", "C. Vertikal", "D. Otonom"],
+        "jawaban": "C. Vertikal"
     },
     {
         "id": 22, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Sikap mementingkan diri sendiri secara berlebihan and cenderung menutup diri dari lingkungan sekitar disebut...",
+        "pertanyaan": "Sikap mementingkan suku sendiri secara berlebihan dan menganggapnya lebih unggul daripada suku lain dinamakan...",
         "opsi": ["A. Sukuisme", "B. Individualisme", "C. Nasionalisme", "D. Patriotisme"],
-        "jawaban": "B. Individualisme"
+        "jawaban": "A. Sukuisme"
     },
     {
         "id": 23, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Pakaian daerah bernama 'Ulee Balang' merupakan identitas pakaian adat yang berasal dari daerah...",
+        "pertanyaan": "Pakaian daerah bernama 'Ulee Balang' merupakan identitas budaya dari daerah...",
         "opsi": ["A. Sumatra Utara", "B. Jawa Barat", "C. Aceh", "D. Bali"],
         "jawaban": "C. Aceh"
     },
     {
         "id": 24, "level": "L1", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Wilayah timur Indonesia, tepatnya di Pulau Papua, berbatasan darat secara langsung dengan negara...",
+        "pertanyaan": "Wilayah timur Indonesia, tepatnya di Pulau Papua, berbatasan daratan secara langsung dengan negara...",
         "opsi": ["A. Australia", "B. Filipina", "C. Papua Nugini", "D. Timor Leste"],
         "jawaban": "C. Papua Nugini"
     },
     {
         "id": 25, "level": "L1", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Agama resmi yang menjadikan kitab 'Weda' sebagai kitab suci utamanya adalah agama...",
+        "pertanyaan": "Agama yang menjadikan 'Weda' sebagai kitab suci utamanya adalah agama...",
         "opsi": ["A. Buddha", "B. Hindu", "C. Khonghucu", "D. Katolik"],
         "jawaban": "B. Hindu"
     },
@@ -174,163 +174,494 @@ soal_cbt = [
     # --- LEVEL 2: Aplikasi (15 Soal) ---
     {
         "id": 26, "level": "L2", "kategori": "Bab 4", "image": "https://via.placeholder.com/600x300.png?text=Gotong+Royong+Beda+Suku",
-        "pertanyaan": "Warga perumahan yang berbeda suku bekerja bakti membersihkan lingkungan selokan bersama. Tindakan ini menerapkan...",
-        "opsi": ["A. Asimilasi budaya total", "B. Persatuan keberagaman suku", "C. Primordialisme daerah", "D. Etnosentrisme warga"],
-        "jawaban": "B. Persatuan keberagaman suku"
+        "pertanyaan": "Di sebuah kompleks perumahan, warga yang bersuku Batak, Jawa, and Minang selalu bahu-membahu membersihkan lingkungan setiap bulan. Tindakan ini merupakan perwujudan dari... [cite: 1135-1143]",
+        "opsi": ["A. Asimilasi total budaya lokal", "B. Persatuan dalam keberagaman suku di masyarakat", "C. Primordialisme antarsuku", "D. Etnosentrisme dalam satu lingkungan"],
+        "jawaban": "B. Persatuan dalam keberagaman suku di masyarakat"
     },
     {
         "id": 27, "level": "L2", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Kapal asing ditangkap TNI AL karena mengambil ikan pada jarak 150 mil dari pantai Indonesia. Kapal ini melanggar batas...",
-        "opsi": ["A. Laut Teritorial", "B. Perairan Pedalaman", "C. Zona Ekonomi Eksklusif", "D. Landasan Kontinen"],
-        "jawaban": "C. Zona Ekonomi Eksklusif"
+        "pertanyaan": "Sebuah kapal penangkap ikan dari negara Z ditangkap patroli TNI AL karena terbukti mencari ikan di perairan sejauh 150 mil dari garis pantai Indonesia. Kapal tersebut ditangkap karena melanggar batas perairan...",
+        "opsi": ["A. Laut Teritorial", "B. Perairan Pedalaman", "C. Zona Ekonomi Eksklusif (ZEE)", "D. Landasan Kontinen"],
+        "jawaban": "C. Zona Ekonomi Eksklusif (ZEE)"
     },
     {
         "id": 28, "level": "L2", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Andi merayakan Idulfitri dan Budi merayakan Natal. Mereka saling mengunjungi dengan rukun. Sikap ini menerapkan...",
-        "opsi": ["A. Toleransi antarumat beragama", "B. Sinkretisme perayaan hari besar", "C. Memudarnya nilai ajaran asli", "D. Kompromi prinsip keyakinan"],
-        "jawaban": "A. Toleransi antarumat beragama"
+        "pertanyaan": "Andi merayakan Idulfitri, sementara tetangganya Budi merayakan Natal. Keduanya saling mengunjungi dan menghargai perayaan agama masing-masing. Sikap ini merupakan penerapan langsung dari perilaku... [cite: 1297-1301]",
+        "opsi": ["A. Toleransi beragama yang menciptakan keharmonisan", "B. Sinkretisme perayaan hari besar", "C. Memudarnya nilai-nilai ajaran asli agama", "D. Kompromi terhadap prinsip keyakinan"],
+        "jawaban": "A. Toleransi beragama yang menciptakan keharmonisan"
     },
     {
         "id": 29, "level": "L2", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Pemerintah Kota Banjar berwenang mengatur urusan rumah tangga daerahnya secara mandiri. Hal ini membuktikan penerapan sistem...",
-        "opsi": ["A. Sentralisasi pusat", "B. Desentralisasi daerah", "C. Federalisme serikat", "D. Otoriter absolut"],
-        "jawaban": "B. Desentralisasi daerah"
+        "pertanyaan": "Pemerintah daerah Kota Ambon saat ini memiliki wewenang untuk mengatur urusan rumah tangganya sendiri dan membangun fasilitas publik dari anggaran daerahnya. Ini menunjukkan negara Indonesia menerapkan sistem...",
+        "opsi": ["A. Sentralisasi absolut", "B. Desentralisasi", "C. Federalisme murni", "D. Otoriterisme"],
+        "jawaban": "B. Desentralisasi"
     },
     {
         "id": 30, "level": "L2", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Indonesia menjadi jalur perdagangan dunia karena diapit dua benua dan samudra. Dampak kulturalnya adalah...",
-        "opsi": ["A. Budaya lokal terisolasi", "B. Terbentuknya budaya tunggal", "C. Masuknya pengaruh budaya asing", "D. Terhentinya laju modernisasi"],
-        "jawaban": "C. Masuknya pengaruh budaya asing"
+        "pertanyaan": "Indonesia menjadi jalur perdagangan internasional karena letak geografisnya yang diapit benua Asia dan Australia. Secara kultural, dampak dari kondisi ini adalah... [cite: 1153-1158]",
+        "opsi": ["A. Masyarakat Indonesia sepenuhnya terisolasi dari kebudayaan global", "B. Terciptanya satu kebudayaan tunggal yang seragam di nusantara", "C. Indonesia sulit mencegah masuknya pengaruh budaya asing dan menjadi beragam", "D. Terhentinya laju modernisasi di sektor maritim"],
+        "jawaban": "C. Indonesia sulit mencegah masuknya pengaruh budaya asing dan menjadi beragam"
     },
     {
         "id": 31, "level": "L2", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Siswa yang membuang sampah pada tempatnya and merawat tanaman fasilitas sekolah mencerminkan sikap keutuhan negara berupa...",
-        "opsi": ["A. Rela berkorban militer", "B. Cinta tanah air di sekolah", "C. Etnosentrisme kepemudaan", "D. Apatis terhadap lingkungan"],
-        "jawaban": "B. Cinta tanah air di sekolah"
+        "pertanyaan": "Sebagai pelajar, tindakan seperti menjaga kebersihan lingkungan dan tidak merusak fasilitas umum merupakan salah satu cerminan sikap menjaga keutuhan negara melalui... [cite: 414-415]",
+        "opsi": ["A. Rela berkorban di medan tempur", "B. Cinta tanah air di lingkungan masyarakat", "C. Etnosentrisme kepemudaan", "D. Sikap apatis terhadap perubahan lingkungan"],
+        "jawaban": "B. Cinta tanah air di lingkungan masyarakat"
     },
     {
         "id": 32, "level": "L2", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Perbedaan kondisi alam pesisir pantai dengan kawasan pegunungan tinggi memicu terjadinya keberagaman masyarakat dalam hal...",
-        "opsi": ["A. Sistem keagamaan", "B. Mata pencaharian and rumah", "C. Konstitusi tata negara", "D. Kebijakan politik luar negeri"],
-        "jawaban": "B. Mata pencaharian and rumah"
+        "pertanyaan": "Kondisi alam pesisir yang subur dan kawasan pegunungan yang sejuk secara langsung akan melahirkan keberagaman masyarakat terutama pada sektor... [cite: 1172-1174]",
+        "opsi": ["A. Pemilihan agama dan aliran kepercayaan", "B. Mata pencaharian dan desain arsitektur rumah", "C. Sistem hukum peradilan yang dianut", "D. Kebijakan hubungan luar negeri"],
+        "jawaban": "B. Mata pencaharian dan desain arsitektur rumah"
     },
     {
         "id": 33, "level": "L2", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "RIS dibubarkan pada 17 Agustus 1950 and Indonesia kembali ke bentuk Negara Kesatuan Republik Indonesia (NKRI) karena...",
-        "opsi": ["A. Desakan resmi dari PBB", "B. Belanda menarik dukungannya", "C. Keinginan sebagian besar rakyat", "D. RIS tidak memiliki parlemen"],
-        "jawaban": "C. Keinginan sebagian besar rakyat"
+        "pertanyaan": "Sesaat setelah Konferensi Meja Bundar, Indonesia terpaksa menjadi negara Republik Indonesia Serikat (RIS). Tak lama berselang, Presiden Sukarno membubarkan RIS pada 17 Agustus 1950 karena... [cite: 353-354]",
+        "opsi": ["A. Adanya desakan dari pihak Perserikatan Bangsa-Bangsa", "B. Belanda secara resmi menarik dukungannya atas bentuk serikat", "C. Sebagian besar rakyat Indonesia menginginkan kembali ke bentuk negara kesatuan", "D. Sistem konstitusi RIS tidak memiliki parlemen perwakilan"],
+        "jawaban": "C. Sebagian besar rakyat Indonesia menginginkan kembali ke bentuk negara kesatuan"
     },
     {
         "id": 34, "level": "L2", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Saat kerja kelompok PPKn anggotanya terdiri atas siswa beda suku dan agama. Langkah terbaik agar tugas lancar adalah...",
-        "opsi": ["A. Membiarkan satu orang bekerja", "B. Menghargai perbedaan & kerja sama", "C. Menghindari anggota beda suku", "D. Mengerjakan tugas mandiri saja"],
-        "jawaban": "B. Menghargai perbedaan & kerja sama"
+        "pertanyaan": "Dalam kerja kelompok PPKn, anggota kelompok terdiri atas teman-teman yang berbeda latar belakang agama dan suku bangsa. Langkah terbaik yang harus dilakukan untuk menyukseskan tugas adalah... [cite: 1388-1389]",
+        "opsi": ["A. Menyerahkan semua tugas pada satu orang yang paling pintar", "B. Saling menghargai perbedaan tersebut dan bekerja sama menyelesaikan tugas", "C. Menghindari anggota yang berbeda suku agar tidak terjadi konflik", "D. Mengerjakan bagian tugas sendiri tanpa peduli hasil kelompok"],
+        "jawaban": "B. Saling menghargai perbedaan tersebut dan bekerja sama menyelesaikan tugas"
     },
     {
         "id": 35, "level": "L2", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Rasa cinta tanah air yang diwujudkan secara berlebihan dan memandang rendah bangsa lain dinamakan dengan paham...",
-        "opsi": ["A. Nasionalisme luas", "B. Chauvinisme (Nasionalisme sempit)", "C. Patriotisme modern", "D. Individualisme sekuler"],
-        "jawaban": "B. Chauvinisme (Nasionalisme sempit)"
+        "pertanyaan": "Memiliki kebanggaan terhadap negara itu penting, tetapi jika perasaan cinta tanah air tersebut diwujudkan secara berlebihan hingga merendahkan negara lain, maka hal ini disebut sebagai...",
+        "opsi": ["A. Nasionalisme dalam arti luas", "B. Nasionalisme dalam arti sempit (Chauvinisme)", "C. Patriotisme modern", "D. Individualisme progresif"],
+        "jawaban": "B. Nasionalisme dalam arti sempit (Chauvinisme)"
     },
     {
         "id": 36, "level": "L2", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Revolusi digital memicu perubahan gaya hidup remaja. Respons terbaik seorang pelajar untuk menghadapi tantangan global ini adalah...",
-        "opsi": ["A. Menolak total internet", "B. Selektif, belajar hal positif", "C. Pasrah pada kondisi", "D. Mengikuti semua tren asing"],
-        "jawaban": "B. Selektif, belajar hal positif"
+        "pertanyaan": "Revolusi digital memberikan pengaruh yang sangat besar hingga memicu perubahan gaya hidup di kalangan remaja. Respons terbaik seorang pelajar untuk menghadapi perubahan global ini adalah... [cite: 1457-1473, 1482]",
+        "opsi": ["A. Menolak total penggunaan internet demi menjaga tradisi", "B. Mengevaluasi peluang, menyerap informasi positif, dan terus belajar hal baru", "C. Menyerahkan semua permasalahan moral pada pemerintah", "D. Mengikuti tren apa saja tanpa batas agar terlihat kekinian"],
+        "jawaban": "B. Mengevaluasi peluang, menyerap informasi positif, dan terus belajar hal baru"
     },
     {
         "id": 37, "level": "L2", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Setiap pemerintah daerah provinsi di Indonesia dalam membuat peraturan hukum daerah wajib mengacu pada konstitusi tertinggi, yaitu...",
-        "opsi": ["A. UUD NRI Tahun 1945", "B. Ketetapan MPR RI", "C. Peraturan Pemerintah", "D. Konstitusi RIS 1949"],
-        "jawaban": "A. UUD NRI Tahun 1945"
+        "pertanyaan": "Berbeda dengan negara bagian di sistem serikat, provinsi di Indonesia berkedudukan di bawah pemerintah pusat dan harus mengacu pada satu konstitusi utama, yakni...",
+        "opsi": ["A. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945", "B. Ketetapan Majelis Permusyawaratan Rakyat (TAP MPR)", "C. Peraturan Pemerintah Pengganti Undang-Undang (Perppu)", "D. Konstitusi Republik Indonesia Serikat"],
+        "jawaban": "A. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
     },
     {
         "id": 38, "level": "L2", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Keragaman profesi masyarakat seperti petani, nelayan, and pedagang terjadi di lingkungan sekitar kita. Tujuan keragaman ini adalah...",
-        "opsi": ["A. Menciptakan kasta sosial", "B. Memicu persaingan kelas", "C. Saling melengkapi kebutuhan", "D. Memisahkan kota dan desa"],
-        "jawaban": "C. Saling melengkapi kebutuhan"
+        "pertanyaan": "Penggolongan profesi seperti petani, nelayan, buruh, dan pedagang menunjukkan keragaman antargolongan. Tujuan utama dari perbedaan profesi ini dalam masyarakat adalah untuk... [cite: 1386-1390]",
+        "opsi": ["A. Menjadikan status pengusaha lebih tinggi dari kaum buruh", "B. Membangun persaingan antarkelas ekonomi", "C. Saling melengkapi kebutuhan hidup satu sama lain melalui kerja sama", "D. Memisahkan masyarakat desa dengan penduduk kota"],
+        "jawaban": "C. Saling melengkapi kebutuhan hidup satu sama lain melalui kerja sama"
     },
     {
         "id": 39, "level": "L2", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Jika ada oknum teman mengajak melakukan tindakan diskriminasi antarsuku di sekolah, perilaku benteng pertahanan terbaik kita adalah...",
-        "opsi": ["A. Ikut bergabung dengan kompak", "B. Menolak tegas & berteman adil", "C. Diam dan mendukung pasif", "D. Menantang berkelahi fisik"],
-        "jawaban": "B. Menolak tegas & berteman adil"
+        "pertanyaan": "Apabila ada oknum yang mengajak kalian untuk menyebarkan paham kebencian terhadap suatu kelompok budaya di sekolah, tindakan pencegahan ekstremisme yang paling tepat adalah... [cite: 406-407, 442-444]",
+        "opsi": ["A. Ikut menyebarkannya jika banyak teman yang bergabung", "B. Menolak ajakan tersebut dan menjalin pertemanan dengan siapapun tanpa membedakan ras atau agama", "C. Mengabaikannya namun diam-diam setuju dengan paham tersebut", "D. Menantang oknum tersebut berkelahi"],
+        "jawaban": "B. Menolak ajakan tersebut dan menjalin pertemanan dengan siapapun tanpa membedakan ras atau agama"
     },
     {
         "id": 40, "level": "L2", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Kemajuan teknologi komunikasi and alat transportasi saat ini mempermudah interaksi masyarakat antarpulau. Manfaat utamanya adalah...",
-        "opsi": ["A. Daerah asal menjadi sepi", "B. Pertukaran barang/informasi mudah", "C. Budaya lokal langsung punah", "D. Bahasa daerah tidak dipakai"],
-        "jawaban": "B. Pertukaran barang/informasi mudah"
+        "pertanyaan": "Akibat isolasi geografis di masa lalu, penduduk antar pulau jarang berinteraksi sehingga bahasa mereka berbeda. Kini, dengan adanya kemajuan alat transportasi, interaksi antar masyarakat semakin tinggi. Manfaat utamanya adalah... [cite: 1175-1178]",
+        "opsi": ["A. Daerah semakin tertinggal karena banyak warganya yang pindah", "B. Perpindahan orang dan pertukaran barang atau informasi antar wilayah menjadi lebih cepat dan mudah", "C. Seluruh budaya lokal otomatis terhapus", "D. Bahasa nasional tidak lagi dibutuhkan"],
+        "jawaban": "B. Perpindahan orang dan pertukaran barang atau informasi antar wilayah menjadi lebih cepat dan mudah"
     },
 
     # --- LEVEL 3: Penalaran / HOTS (10 Soal) ---
     {
         "id": 41, "level": "L3", "kategori": "Bab 5", "image": "https://via.placeholder.com/600x300.png?text=Sidang+BPUPK+Bentuk+Negara",
-        "pertanyaan": "Analisis argumen sidang BPUPK mengenai bentuk negara. Mengapa pendiri bangsa akhirnya sepakat menetapkan bentuk negara kesatuan?",
+        "pertanyaan": "Dalam sidang BPUPK, Mohammad Hatta menilai bentuk serikat cocok dengan keberagaman suku. Sebaliknya, Soepomo dan Yamin meyakini bentuk kesatuanlah yang tepat. Berdasarkan sejarah ketatanegaraan kita, alasan paling filosofis mengapa negara kesatuan yang akhirnya menjadi pilihan permanen adalah... [cite: 313-316, 342-343]",
         "opsi": [
-            "A. Sistem federal terlalu boros", 
-            "B. Paling tepat mewadahi persatuan bangsa majemuk", 
-            "C. SDM daerah belum siap mandiri", 
-            "D. Adanya paksaan mutlak dari sekutu"
+            "A. Negara serikat selalu membebani anggaran daerah", 
+            "B. Negara kesatuan dianggap bentuk paling tepat untuk mewadahi ide persatuan sebuah bangsa yang majemuk", 
+            "C. Indonesia belum memiliki SDM untuk memimpin negara-negara bagian", 
+            "D. Undang-undang federal sangat sulit dirumuskan oleh panitia persiapan"
         ],
-        "jawaban": "B. Paling tepat mewadahi persatuan bangsa majemuk"
+        "jawaban": "B. Negara kesatuan dianggap bentuk paling tepat untuk mewadahi ide persatuan sebuah bangsa yang majemuk"
     },
     {
         "id": 42, "level": "L3", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Masuknya budaya global melalui internet tidak bisa dibendung. Jika remaja menerima hal tersebut tanpa filter, dampak buruknya bagi negara adalah...",
+        "pertanyaan": "Pesatnya kemajuan teknologi informasi memungkinkan budaya global masuk tanpa hambatan. Jika masyarakat menerima hal asing (akulturasi) secara buta tanpa proses penyaringan nilai, konsekuensi sosial jangka panjang yang akan dialami bangsa Indonesia adalah... [cite: 1182-1192]",
         "opsi": [
-            "A. Kesadaran nasional meningkat", 
-            "B. Hidup menjadi makin makmur", 
-            "C. Lunturnya identitas budaya asli", 
-            "D. Meningkatnya pariwisata daerah"
+            "A. Menguatnya kesadaran ber-Bhinneka Tunggal Ika", 
+            "B. Terciptanya kehidupan sosial yang harmonis and merata", 
+            "C. Identitas nasional dan keaslian budaya luhur perlahan luntur dan tergantikan oleh budaya asing", 
+            "D. Meningkatnya devisa negara dari sektor pariwisata luar negeri"
         ],
-        "jawaban": "C. Lunturnya identitas budaya asli"
+        "jawaban": "C. Identitas nasional dan keaslian budaya luhur perlahan luntur dan tergantikan oleh budaya asing"
     },
     {
         "id": 43, "level": "L3", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Evaluasi syarat Konvensi Montevideo 1933. Apa akibat hukum jika suatu negara merdeka secara de facto tetapi tidak diakui secara de jure?",
+        "pertanyaan": "Berdasarkan Konvensi Montevideo 1933, pengakuan de jure bersifat deklaratif namun krusial dalam percaturan global. Analisislah akibat hukum jika sebuah negara merdeka secara de facto (memiliki wilayah, rakyat, dan pemerintah) namun tidak kunjung mendapatkan pengakuan de jure dari masyarakat internasional! [cite: 93-94, 104-107]",
         "opsi": [
-            "A. Negara otomatis batal berdiri", 
-            "B. Wajib menggelar pemilu ulang", 
-            "C. Kesulitan menjalin kerja sama sah", 
-            "D. Wilayahnya diambil alih tetangga"
+            "A. Negara tersebut batal berdiri and rakyatnya kehilangan kewarganegaraan", 
+            "B. Pemerintahannya tidak sah dan wajib melaksanakan pemilihan ulang di bawah PBB", 
+            "C. Negara tersebut tetap ada secara fisik, namun akan sangat kesulitan melakukan hubungan kerja sama maupun perjanjian internasional secara sah", 
+            "D. Kedaulatan negaranya langsung diambil alih oleh negara yang berbatasan dengannya"
         ],
-        "jawaban": "C. Kesulitan menjalin kerja sama sah"
+        "jawaban": "C. Negara tersebut tetap ada secara fisik, namun akan sangat kesulitan melakukan hubungan kerja sama maupun perjanjian internasional secara sah"
     },
     {
         "id": 44, "level": "L3", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Perbedaan kelas sosial and ekonomi rawan memicu konflik. Solusi mitigasi konflik tersebut berdasarkan nilai Bhinneka Tunggal Ika adalah...",
+        "pertanyaan": "Perbedaan tingkat ekonomi (pendapatan, status kelas sosial) sangat rawan memicu konflik di tengah masyarakat. Sebagai warga yang menjunjung tinggi Bhinneka Tunggal Ika, solusi sosiologis paling relevan untuk meredam kesenjangan tersebut adalah... [cite: 1150-1151]",
         "opsi": [
-            "A. Menghapus semua hak pekerja", 
-            "B. Membatasi mobilitas penduduk", 
-            "C. Toleransi & gotong royong adil", 
-            "D. Membagi harta secara paksa"
+            "A. Menerapkan sistem otoriter yang menghapus kelas pekerja", 
+            "B. Menghindari interaksi fisik antar wilayah kota dan desa", 
+            "C. Menumbuhkan sikap saling menghormati, toleransi, dan kerja sama gotong royong tanpa memandang latar belakang materi", 
+            "D. Mewajibkan golongan ekonomi atas untuk membiayai seluruh kebutuhan golongan bawah"
         ],
-        "jawaban": "C. Toleransi & gotong royong adil"
+        "jawaban": "C. Menumbuhkan sikap saling menghormati, toleransi, dan kerja sama gotong royong tanpa memandang latar belakang materi"
     },
     {
         "id": 45, "level": "L3", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "Tindakan diskriminasi rasial di kelas merusak persatuan. Sebagai siswa, peran konkret apa yang bisa kalian lakukan untuk menghentikannya?",
+        "pertanyaan": "Di lingkungan sekolah, tindakan membeda-bedakan kawan (diskriminasi) bertentangan dengan prinsip menjaga keutuhan wilayah. Pendekatan karakter yang paling solutif yang bisa kalian lakukan sebagai siswa adalah... [cite: 442-444]",
         "opsi": [
-            "A. Mengusulkan kelas khusus minoritas", 
-            "B. Berteman dengan semua lintas suku", 
-            "C. Menjauhi kawan yang memicu debat", 
-            "D. Membuat kritik pedas di medsos"
+            "A. Melaporkan perbedaan teman kepada guru agar mereka diberikan kelas khusus", 
+            "B. Menjalin hubungan pertemanan lintas batas (suku, ras, agama) serta mematuhi tata tertib sekolah", 
+            "C. Membatasi pergaulan hanya pada teman yang memiliki budaya yang sama demi menjaga kedamaian", 
+            "D. Menggunakan media sosial untuk mengkritik suku minoritas di sekolah"
         ],
-        "jawaban": "B. Berteman dengan semua lintas suku"
+        "jawaban": "B. Menjalin hubungan pertemanan lintas batas (suku, ras, agama) serta mematuhi tata tertib sekolah"
     },
     {
         "id": 46, "level": "L3", "kategori": "Bab 4", "image": None,
-        "pertanyaan": "Penerapan digitalisasi raport pendidikan memicu kejutan bagi guru tradisional. Berdasarkan tips respons sosial, langkah terbaik adalah...",
+        "pertanyaan": "Dalam menghadapi perubahan sosial di era globalisasi (misalnya digitalisasi pendidikan pasca pandemi), sikap apatis sering kali memicu kemunduran. Berdasarkan tips manajemen krisis, langkah proaktif apa yang sebaiknya diambil oleh seorang pelajar? [cite: 1461-1474]",
         "opsi": [
-            "A. Menolak memakai aplikasi sistem", 
-            "B. Meminta sistem kembali ke manual", 
-            "C. Berpikir positif, belajar & adaptasi", 
-            "D. Membiarkan data raport kosong"
+            "A. Menyerah dan menunggu fasilitas yang sempurna", 
+            "B. Melakukan protes dan menghindari belajar daring secara total", 
+            "C. Menerima perubahan secara positif, mengevaluasi keadaan, dan terus belajar mengembangkan diri", 
+            "D. Memaksakan diri menggunakan metode konvensional meski sudah dilarang"
         ],
-        "jawaban": "C. Berpikir positif, belajar & adaptasi"
+        "jawaban": "C. Menerima perubahan secara positif, mengevaluasi keadaan, dan terus belajar mengembangkan diri"
     },
     {
         "id": 47, "level": "L3", "kategori": "Bab 5", "image": None,
-        "pertanyaan": "UU No 43 Tahun 2008 menetapkan wilayah kedaulatan NKRI. Jika ditemukan minyak kedaulatan di perairan dalam nusantara, kepemilikannya ada pada...",
-        "opsi":
+        "pertanyaan": "Undang-Undang Nomor 43 Tahun 2008 memandang wilayah NKRI—baik darat, laut, maupun udara—sebagai satu kesatuan utuh. Jika suatu saat terjadi penemuan tambang mineral berharga di perairan kepulauan (archipelagic waters), maka secara yuridis hak kepemilikannya berada di tangan...",
+        "opsi": [
+            "A. Pihak asing yang berhasil menemukan wilayah tambang tersebut terlebih dahulu", 
+            "B. Pemerintah provinsi setempat tanpa adanya campur tangan pemerintah pusat", 
+            "C. Negara Kesatuan Republik Indonesia, termasuk seluruh sumber kekayaan yang terkandung di dalamnya", 
+            "D. Perusahaan multinasional yang ditunjuk secara sepihak oleh gubernur setempat"
+        ],
+        "jawaban": "C. Negara Kesatuan Republik Indonesia, termasuk seluruh sumber kekayaan yang terkandung di dalamnya"
+    },
+    {
+        "id": 48, "level": "L3", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Berdasarkan tinjauan sosiologis, pemaksaan asimilasi atau penyeragaman kebudayaan seringkali gagal di Indonesia karena bertentangan dengan semboyan negara. Mengapa keberagaman budaya diklaim sebagai sebuah keunggulan, bukan kelemahan? [cite: 1133-1136, 1144-1146]",
+        "opsi": [
+            "A. Karena dapat memudahkan masuknya investasi asing tanpa harus memperhatikan adat", 
+            "B. Karena keberagaman menyediakan banyak sumber daya pemikiran, kreativitas, dan inovasi yang vital bagi kemajuan nasional", 
+            "C. Karena dengan keberagaman, pemerintah bisa lebih mudah memecah belah kekuatan politik rakyat", 
+            "D. Karena keberagaman menekan biaya infrastruktur di wilayah yang masih tertinggal"
+        ],
+        "jawaban": "B. Karena keberagaman menyediakan banyak sumber daya pemikiran, kreativitas, dan inovasi yang vital bagi kemajuan nasional"
+    },
+    {
+        "id": 49, "level": "L3", "kategori": "Bab 5", "image": None,
+        "pertanyaan": "Penerapan hukum kelautan internasional yang menetapkan 200 mil sebagai Zona Ekonomi Eksklusif (ZEE) memberi Indonesia kewenangan berdaulat atas SDA. Apa implikasi pertahanan-keamanan (Hankam) atas perluasan batas ini? [cite: 139-142, 232]",
+        "opsi": [
+            "A. Angkatan bersenjata Indonesia kehilangan kendali atas lalu lintas kapal internasional di perairan sempit", 
+            "B. Negara harus meningkatkan kapasitas diplomasi kelautan dan kemampuan patroli pengawasan batas perairan secara masif", 
+            "C. Seluruh batas darat menjadi tidak penting karena anggaran difokuskan sepenuhnya ke laut lepas", 
+            "D. Nelayan tradisional dilarang mencari ikan di perairan dekat pantai mereka sendiri"
+        ],
+        "jawaban": "B. Negara harus meningkatkan kapasitas diplomasi kelautan dan kemampuan patroli pengawasan batas perairan secara masif"
+    },
+    {
+        "id": 50, "level": "L3", "kategori": "Bab 4", "image": None,
+        "pertanyaan": "Jika diamati dari sejarah lahirnya Indische Partij (1912), perlawanan terhadap kolonial Belanda kala itu tidak sekadar menuntut kemerdekaan politik, tetapi juga didorong oleh perlawanan terhadap sistem golongan. Dari kasus tersebut, apa pelajaran yang bisa ditarik terkait stratifikasi (penggolongan) rasial di masa kini? [cite: 1429-1436]",
+        "opsi": [
+            "A. Stratifikasi rasial terbukti efisien untuk menjaga ketertiban masyarakat agraris", 
+            "B. Penggolongan berbasis ras harus dipertahankan untuk melindungi keaslian suku bangsa dari ancaman luar", 
+            "C. Diskriminasi antargolongan akan selalu melahirkan ketidakadilan (social, pendidikan, pekerjaan) yang memicu instabilitas dan penderitaan kemanusiaan", 
+            "D. Kebijakan kolonial sebenarnya bermanfaat, namun cara penyampaiannya saja yang salah"
+        ],
+        "jawaban": "C. Diskriminasi antargolongan akan selalu melahirkan ketidakadilan (sosial, pendidikan, pekerjaan) yang memicu instabilitas dan penderitaan kemanusiaan"
+    }
+]
+
+# ==========================================
+# INISIALISASI SESSION STATE
+# ==========================================
+if "logged_in" not in st.session_state:
+    st.session_state.logged_in = False
+if "user_data" not in st.session_state:
+    st.session_state.user_data = {}
+if "jawaban_user" not in st.session_state:
+    st.session_state.jawaban_user = {q["id"]: None for q in soal_cbt}
+if "db_nilai" not in st.session_state:
+    cols = ["Waktu", "Nama Lengkap", "Kelas", "No Absen", "Asal Sekolah", "Nilai", "Benar", "Salah"]
+    st.session_state.db_nilai = pd.DataFrame(columns=cols)
+if "submit_status" not in st.session_state:
+    st.session_state.submit_status = None
+if "is_guru" not in st.session_state:
+    st.session_state.is_guru = False
+if "skor_siswa_saat_ini" not in st.session_state:
+    st.session_state.skor_siswa_saat_ini = {"nilai": 0, "benar": 0, "salah": 0}
+if "opsi_acak_soal" not in st.session_state:
+    st.session_state.opsi_acak_soal = {}
+
+# ==========================================
+# LOGIKA PERHITUNGAN JAWABAN
+# ==========================================
+def hitung_nilai():
+    benar = 0
+    for q in soal_cbt:
+        jawaban_terpilih = st.session_state.jawaban_user.get(q["id"])
+        if jawaban_terpilih == q["jawaban"]:
+            benar += 1
+    salah = 50 - benar
+    nilai = (benar / 50) * 100
+    return round(nilai, 2), benar, salah
+
+def proses_kirim_jawaban():
+    try:
+        with st.spinner("Sistem sedang mengamankan data ujian..."):
+            time.sleep(1.5)
+            nilai, benar, salah = hitung_nilai()
+            
+            st.session_state.skor_siswa_saat_ini = {
+                "nilai": nilai,
+                "benar": benar,
+                "salah": salah
+            }
+            
+            data_baru = {
+                "Waktu": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "Nama Lengkap": st.session_state.user_data["Nama Lengkap"],
+                "Kelas": st.session_state.user_data["Kelas"],
+                "No Absen": st.session_state.user_data["No Absen"],
+                "Asal Sekolah": st.session_state.user_data["Asal Sekolah"],
+                "Nilai": nilai,
+                "Benar": benar,
+                "Salah": salah
+            }
+            
+            df_baru = pd.DataFrame([data_baru])
+            st.session_state.db_nilai = pd.concat([st.session_state.db_nilai, df_baru], ignore_index=True)
+            st.session_state.submit_status = "Berhasil"
+    except Exception as err:
+        st.session_state.submit_status = "Gagal"
+
+# ==========================================
+# INTERFACE HALAMAN
+# ==========================================
+def halaman_login_siswa():
+    st.markdown("""
+        <style>
+        .stApp {
+            background: linear-gradient(135deg, #E0F2FE 0%, #ECFDF5 100%);
+        }
+        .kotak-login {
+            background-color: #FFFFFF;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(16, 185, 129, 0.1);
+            border: 2px solid #A7F3D0;
+            margin-top: 20px;
+        }
+        .judul-utama {
+            color: #1E3A8A !important;
+            font-weight: 800;
+            text-align: center;
+            margin-bottom: 5px;
+        }
+        .sub-judul {
+            color: #1E3A8A !important;
+            text-align: center;
+            font-size: 1.1rem;
+            margin-bottom: 25px;
+        }
+        </style>
+    """, unsafe_allow_html=True)
+
+    st.markdown("<h1 class='judul-utama'>🎓 CBT PANCASILA CERIA</h1>", unsafe_allow_html=True)
+    st.markdown(f"<p class='sub-judul'>Media Pembelajaran Interaktif Kelas VII - {APP_SCHOOL}</p>", unsafe_allow_html=True)
+    
+    col1, col2, col3 = st.columns([1, 1.8, 1])
+    with col2:
+        st.markdown("<div class='kotak-login'>", unsafe_allow_html=True)
+        with st.form("form_login"):
+            st.markdown("<h3 style='color: #1E3A8A; text-align:center; margin-bottom:20px;'>👋 Selamat Datang! Silakan Login</h3>", unsafe_allow_html=True)
+            
+            input_nama = st.text_input("📝 Nama Lengkap", placeholder="Ketik nama lengkapmu di sini...")
+            pilihan_kelas = ["Pilih Kelas", "7A", "7B", "7C", "7D", "7E", "7F", "7G", "7H", "7I"]
+            input_kelas = st.selectbox("🏫 Pilih Kelasmu", pilihan_kelas)
+            
+            pilihan_absen = ["Pilih Absen"] + [str(i) for i in range(1, 41)]
+            input_absen = st.selectbox("🔢 Nomor Absen", pilihan_absen)
+            input_sekolah = st.text_input("📍 Asal Sekolah", value=APP_SCHOOL)
+            
+            st.markdown("<br>", unsafe_allow_html=True)
+            tombol_masuk = st.form_submit_button("🚀 MULAI UJIAN SEKARANG", use_container_width=True)
+            
+            if tombol_masuk:
+                if not input_nama.strip() or input_kelas == "Pilih Kelas" or input_absen == "Pilih Absen" or not input_sekolah.strip():
+                    st.error("Ops! Silakan lengkapi semua data loginmu dulu ya! 🎯")
+                else:
+                    st.session_state.user_data = {
+                        "Nama Lengkap": input_nama,
+                        "Kelas": input_kelas,
+                        "No Absen": input_absen,
+                        "Asal Sekolah": input_sekolah
+                    }
+                    
+                    st.session_state.opsi_acak_soal = {}
+                    for q in soal_cbt:
+                        list_opsi = list(q["opsi"])
+                        random.shuffle(list_opsi)
+                        st.session_state.opsi_acak_soal[q["id"]] = list_opsi
+                        
+                    st.session_state.logged_in = True
+                    st.rerun()
+        st.markdown("</div>", unsafe_allow_html=True)
+
+def halaman_ujian():
+    c1, c2 = st.columns([3, 1])
+    with c1:
+        st.markdown(f"**Peserta:** {st.session_state.user_data['Nama Lengkap']} | **Kelas:** {st.session_state.user_data['Kelas']}")
+    with c2:
+        st.markdown("**Mata Pelajaran:** PPKn")
+    st.divider()
+
+    if st.session_state.submit_status == "Berhasil":
+        st.balloons()
+        st.success("✔ JAWABAN BERHASIL DIKIRIM KE DATABASE GURU!")
+        
+        # Kotak Skor Langsung untuk Peserta
+        st.markdown("""
+            <div style='background-color: #F0FDF4; border: 2px solid #16A34A; padding: 25px; border-radius: 10px; text-align: center; margin-bottom: 25px;'>
+                <h2 style='color: #16A34A; margin-top: 0;'>📝 HASIL SKOR UJIAN ANDA</h2>
+                <p style='font-size: 1.1rem; color: #374151;'>Terima kasih telah menyelesaikan ujian dengan jujur.</p>
+                <hr style='border-top: 1px solid #BBF7D0;'>
+                <div style='display: flex; justify-content: space-around; margin-top: 20px;'>
+                    <div>
+                        <span style='font-size: 1rem; color: #6B7280;'>Benar</span><br>
+                        <span style='font-size: 2rem; font-weight: bold; color: #16A34A;'>{}</span>
+                    </div>
+                    <div>
+                        <span style='font-size: 1.2rem; color: #374151; font-weight: bold;'>NILAI AKHIR</span><br>
+                        <span style='font-size: 3.5rem; font-weight: bold; color: #1E3A8A;'>{}</span>
+                    </div>
+                    <div>
+                        <span style='font-size: 1rem; color: #6B7280;'>Salah</span><br>
+                        <span style='font-size: 2rem; font-weight: bold; color: #DC2626;'>{}</span>
+                    </div>
+                </div>
+            </div>
+        """.format(
+            st.session_state.skor_siswa_saat_ini["benar"],
+            st.session_state.skor_siswa_saat_ini["nilai"],
+            st.session_state.skor_siswa_saat_ini["salah"]
+        ), unsafe_allow_html=True)
+        
+        if st.button("Keluar dan Selesai", use_container_width=True):
+            st.session_state.logged_in = False
+            st.session_state.user_data = {}
+            st.session_state.jawaban_user = {q["id"]: None for q in soal_cbt}
+            st.session_state.submit_status = None
+            st.session_state.skor_siswa_saat_ini = {"nilai": 0, "benar": 0, "salah": 0}
+            st.session_state.opsi_acak_soal = {}
+            st.rerun()
+            
+    elif st.session_state.submit_status == "Gagal":
+        st.error("✖ PENGIRIMAN GAGAL! Silakan klik kembali tombol di bawah untuk mengulang pengiriman jawaban.")
+        if st.button("Ulangi Pengiriman Jawaban", type="primary"):
+            proses_kirim_jawaban()
+            st.rerun()
+            
+    else:
+        st.markdown("### Lembar Kerja Soal Pilihan Ganda")
+        
+        for i, q in enumerate(soal_cbt):
+            st.markdown(f"**Soal No. {i+1}** (Level: {q['level']} - {q['kategori']})")
+            if q["image"]:
+                st.image(q["image"], width=400)
+            st.write(q["pertanyaan"])
+            
+            opsi_siswa = st.session_state.opsi_acak_soal.get(q["id"], q["opsi"])
+            jawaban_saat_ini = st.session_state.jawaban_user.get(q["id"])
+            idx_opsi = opsi_siswa.index(jawaban_saat_ini) if jawaban_saat_ini in opsi_siswa else None
+                
+            hasil_pilihan = st.radio(
+                label=f"Pilihan untuk soal {q['id']}", 
+                options=opsi_siswa, 
+                index=idx_opsi,
+                key=f"radio_{q['id']}",
+                label_visibility="collapsed"
+            )
+            st.session_state.jawaban_user[q["id"]] = hasil_pilihan
+            st.markdown("---")
+
+        if st.button("KUMPULKAN JAWABAN", type="primary", use_container_width=True):
+            proses_kirim_jawaban()
+            st.rerun()
+
+def halaman_guru():
+    st.markdown("### 🔐 Akses Terbatas Khusus Guru")
+    
+    if not st.session_state.is_guru:
+        col1, col2, col3 = st.columns([1, 1.5, 1])
+        with col2:
+            with st.form("form_akses_guru"):
+                st.write("Silakan masukkan PIN/Password Guru untuk mengunduh rekapitulasi nilai.")
+                password_input = st.text_input("Password Guru", type="password")
+                tombol_verifikasi = st.form_submit_button("Buka Data Rekap", use_container_width=True)
+                
+                if tombol_verifikasi:
+                    if password_input == "guru123":
+                        st.session_state.is_guru = True
+                        st.rerun()
+                    else:
+                        st.error("Password salah! Akses ditolak.")
+    else:
+        st.success("Akses Terverifikasi. Selamat datang, Guru.")
+        
+        if st.button("Kunci Kembali Panel Guru"):
+            st.session_state.is_guru = False
+            st.rerun()
+            
+        st.divider()
+        st.markdown("#### Tabel Database Hasil Kerja Siswa")
+        df_data = st.session_state.db_nilai
+        
+        if not df_data.empty:
+            st.dataframe(df_data, use_container_width=True)
+            
+            memori_excel = io.BytesIO()
+            with pd.ExcelWriter(memori_excel, engine="openpyxl") as penulis:
+                df_data.to_excel(penulis, index=False, sheet_name="Rekap Nilai Siswa")
+                
+            st.download_button(
+                label="📥 Download Format Excel (.xlsx)",
+                data=memori_excel.getvalue(),
+                file_name=f"Nilai_CBT_PPKn_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx",
+                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                type="primary"
+            )
+        else:
+            st.warning("Database kosong. Belum ada siswa yang mengirimkan lembar jawaban kuis.")
+
+# ==========================================
+# ROUTING UTAMA SISTEM
+# ==========================================
+def main():
+    tab_peserta, tab_guru = st.tabs(["💻 Sesi Ujian (Siswa)", "📝 Panel Dokumen Nilai (Guru Only)"])
+    
+    with tab_peserta:
+        if st.session_state.logged_in:
+            halaman_ujian()
+        else:
+            halaman_login_siswa()
+            
+    with tab_guru:
+        halaman_guru()
+
+    # Footer Identitas Hak Cipta
+    st.markdown("<br><br>", unsafe_allow_html=True)
+    st.markdown(f"""
+        <div style='text-align: center; color: #888; font-size: 0.9em; border-top: 1px solid #ccc; padding-top: 15px;'>
+            <strong>Hak Cipta &copy; 2026 - Aplikasi Media Pembelajaran CBT PPKn</strong><br>
+            Instansi: {APP_SCHOOL} | Pengembang Utama: {APP_AUTHOR}<br>
+            Layanan Dukungan Teknis: {APP_CONTACT}
+        </div>
+    """, unsafe_allow_html=True)
+
+if __name__ == "__main__":
+    main()
